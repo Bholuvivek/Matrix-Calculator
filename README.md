@@ -21,4 +21,3 @@ The project is structured as follows:
   - `script.js`: Client-side logic for the web application.
 - `README.md`: This file providing information about the project.
 
-## Getting Started
